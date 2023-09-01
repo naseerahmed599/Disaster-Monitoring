@@ -1,4 +1,4 @@
-![pic3](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/184eb1bf-1b64-477a-94ba-ede5a32eab61)# Disaster-Monitoring
+# Disaster-Monitoring
 
 The following is a wesbite for the work done on "Using Twitter and Machine Learning for Disaster monitoring".
 
