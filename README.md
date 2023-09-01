@@ -10,7 +10,8 @@ Also please use your own Twitter API's and Tokens to access the Developer mode o
 
 For any query please feel free to ask me.
 
-![pic1](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/a22cc1e9-7ff6-4c5a-bd1c-9f4f1bcef95a)
+![pic1](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/ba434153-be10-44ce-aa6a-e28f435065b8)
+
 ![pic2](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/3ce251d7-83a9-4749-8559-2a5c351715b5)
 ![pic3](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/ea16336a-dbbf-4290-aa3e-9032529f13db)
 ![pic4](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/c4081c5e-4ad4-4dc1-9a2d-3eb5fde11fdd)
