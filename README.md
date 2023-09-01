@@ -1,4 +1,4 @@
-# Disaster-Monitoring
+![pic3](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/184eb1bf-1b64-477a-94ba-ede5a32eab61)# Disaster-Monitoring
 
 The following is a wesbite for the work done on "Using Twitter and Machine Learning for Disaster monitoring".
 
@@ -11,18 +11,28 @@ Also please use your own Twitter API's and Tokens to access the Developer mode o
 For any query please feel free to ask me.
 
 ![pic1](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/ba434153-be10-44ce-aa6a-e28f435065b8)
+![pic2](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/41e7ffa7-9732-4fb0-99c3-2b873e27996b)
+![pic3](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/8ab49ca1-699f-4e52-b3fe-e0948c22fa02)
+![pic4](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/ad0ca268-02b5-4585-8769-9dfd2dc84f63)
+![pic5](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/d83e0b24-74e5-4a02-b78d-2cc4b3724c9c)
+![pic6](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/d98bce1e-f456-4091-88c9-e4875491e1f0)
+![pic7](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/01688464-83c7-428e-820c-8ec2dc4c14d9)
+![pic8](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/3d87ac32-9b30-4000-b8ef-7ee5a44899c1)
+![pic9](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/34bf7398-d57f-4781-bb99-5840ae0ddeea)
+![pic10](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/2de7fdde-a86e-49da-8854-524e34ba915f)
+![pic11](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/036f71e6-d192-474f-8ffd-1640a89c5cb5)
+![pic12](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/8bc070f0-48c0-4b59-b305-564f42296283)
 
-![pic2](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/3ce251d7-83a9-4749-8559-2a5c351715b5)
-![pic3](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/ea16336a-dbbf-4290-aa3e-9032529f13db)
-![pic4](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/c4081c5e-4ad4-4dc1-9a2d-3eb5fde11fdd)
-![pic5](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/41b30bb7-27a5-4d76-b076-a8ef361a6e63)
-![pic6](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/585fe863-f3d5-44fc-903d-79591f5b00cb)
-![pic7](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/2d2b3868-c4bc-4255-8ee6-6eefd6e52e94)
-![pic8](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/a3d14f87-53ba-4487-ab60-caf3da01b384)
-![pic9](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/e456ebde-a048-4b9a-8813-ee2423d31880)
-![pic10](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/dbaf76d1-8e22-4003-85b0-b0aa4d3d7047)
-![pic11](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/394a21a4-cc1b-4bc8-afcf-9e0855f1eb69)
-![pic12](https://github.com/naseerahmed599/Disaster-Monitoring/assets/57068482/8f2c1cba-1588-42e9-8df1-d6b6b5a26988)
+
+
+
+
+
+
+
+
+
+
 
 
 
